@@ -1,5 +1,5 @@
 {
-  "name": "wechat-auth-h5",
+  "name": "yh-cup-vue3",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -24,8 +24,6 @@
   },
   "devDependencies": {
     "@types/ali-oss": "^6.16.7",
-    "@types/node": "^20.12.7",
-    "@types/qs": "^6.9.15",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
     "@vue/cli-plugin-babel": "~5.0.0",

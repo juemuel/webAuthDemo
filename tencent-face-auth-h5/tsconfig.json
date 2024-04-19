@@ -13,8 +13,7 @@
     "sourceMap": true,
     "baseUrl": ".",
     "types": [
-      "webpack-env",
-      "node" // pnpm环境下，通过它可以获取process对象，获取process.env（pnpm add --save-dev @types/node）
+      "webpack-env"
     ],
     "paths": {
       "@/*": [
